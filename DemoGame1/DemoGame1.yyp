@@ -36,6 +36,7 @@
   "name":"DemoGame1",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"tile","path":"sprites/tile/tile.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
